@@ -1,3 +1,6 @@
+# Copied from my kaggle notebook please upvote if you are a kaggler
+https://www.kaggle.com/ssarkar445/eda-with-plotly-express-all-kinds-of-plots
+
 # EDA-With-Plotly-Express
 Consolidated List of all the charts (Plotly Express)
 
